@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Roisin Boggan 👋
 
-<!--
-**rmpb94/rmpb94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+she/her/hers
 
-Here are some ideas to get you started:
+I'm a **Postdoctoral Research Associate** specializing in human genomics and large-scale data analysis. My research focuses on understanding the genetic factors that influence **Staphylococcus aureus (S. aureus) carriage and infection** in humans.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 Research Focus
+
+I work with extensive genomic datasets to investigate host factors and their role in susceptibility to complex diseases. My expertise includes:
+
+- **S. aureus Carriage & Infection:** Exploring the interplay between host genetics and bacterial colonization/infection.
+- **Genome-Wide Association Studies (GWAS):** Applying statistical and computational approaches to uncover genetic variants linked to disease risk.
+- **Complex Disease Genomics:** Integrating multi-dimensional data to identify biological mechanisms underlying health and disease.
+
+## 🛠️ Skills & Tools
+
+- **Languages:** R, Python, Bash
+- **Techniques:** Data analysis, reproducible research, statistical modeling, bioinformatics
+
+## 📂 Featured Repositories
+
+- [Boggan_2023](https://github.com/rmpb94/Boggan_2023)
+
+
+## 🌐 Connect with Me
+
+- Bluesky: [@roisinboggan.bsky.social](https://bsky.app/profile/roisinboggan.bsky.social)
+
+---
+
+_Thanks for visiting! Feel free to explore my repositories or connect with me on Bluesky._
