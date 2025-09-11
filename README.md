@@ -1,4 +1,4 @@
-# Hi there, I'm Roisin Boggan 👋
+# Hi there, I'm Róisín 👋
 
 she/her/hers
 
