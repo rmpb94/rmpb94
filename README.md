@@ -9,7 +9,6 @@ I'm a **Postdoctoral Research Associate** specializing in human genomics and lar
 I work with extensive genomic datasets to investigate host factors and their role in susceptibility to complex diseases. My expertise includes:
 
 - **S. aureus Carriage & Infection:** Exploring the interplay between host genetics and bacterial colonization/infection.
-- **Genome-Wide Association Studies (GWAS):** Applying statistical and computational approaches to uncover genetic variants linked to disease risk.
 - **Complex Disease Genomics:** Integrating multi-dimensional data to identify biological mechanisms underlying health and disease.
 
 ## 🛠️ Skills & Tools
