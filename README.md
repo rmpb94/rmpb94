@@ -16,11 +16,6 @@ I work with extensive genomic datasets to investigate host factors and their rol
 - **Languages:** R, Python, Bash
 - **Techniques:** Data analysis, reproducible research, statistical modeling, bioinformatics
 
-## 📂 Featured Repositories
-
-- [Boggan_2023](https://github.com/rmpb94/Boggan_2023)
-
-
 ## 🌐 Connect with Me
 
 - Bluesky: [@roisinboggan.bsky.social](https://bsky.app/profile/roisinboggan.bsky.social)
